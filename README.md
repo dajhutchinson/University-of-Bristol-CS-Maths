@@ -1,4 +1,4 @@
-# University-of-Bristol-CS-Maths
+# University of Bristol Maths & CS
 Centralised repository for my notes whilst studying for an MEng in Maths &amp; Computer Science and the University of Bristol.
 
 ## Year 4
@@ -18,19 +18,18 @@ Centralised repository for my notes whilst studying for an MEng in Maths &amp; C
 | TB2| COMS30106 | AI with Logic Programming | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=COMS30106) | Dr. Ray | [Github](https://github.com/dajhutchinson/ArtificalIntelligenceWithLogicProgramming) | Completed |
 | TB1| COMS30121 | Image Processing and Computer Vision | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=COMS30121) | 	Professor. Calway | [link](https://github.com/dajhutchinson/ImageProcessingAndComputerVision) | Completed |
 | TB2| COMS31900 | Advanced Algorithms | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=COMS31900) | Dr. Clifford | [link](https://github.com/dajhutchinson/AdvancedAlgorithms) | Completed |
-|    | COMS30501 | Implementing and Evaluating Space Efficient Algorithms for Detecting Large Neighbourhoods in Graph Streams | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=COMS30501) Dr. Konrad | [link](https://github.com/dajhutchinson/Detecting-Large-Neighbourhoods-in-Graph-Streams) | Bachelor's Thesis, Completed |
+|    | COMS30501 | Implementing and Evaluating Space Efficient Algorithms for Detecting Large Neighbourhoods in Graph Streams | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=COMS30501) | Dr. Konrad | [link](https://github.com/dajhutchinson/Detecting-Large-Neighbourhoods-in-Graph-Streams) | Bachelor's Thesis, Completed |
 | TB1| MATH20800 | Statistics 2 | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=MATH20900) | Professor. Anthony Lee | [link](https://github.com/dajhutchinson/Statistics2) | Completed |
 | TB2| MATH30100 | Logic | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=MATH30100) | Dr. Fujimoto | [link](https://github.com/dajhutchinson/Logic) | In Progress |
-<<<<<<< HEAD
 | TB2| MATH35600 | Theory of Inference | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=MATH35600) | Professor. Wood | [link](https://github.com/dajhutchinson/TheoryOfInference) | Completed |
-=======
-| TB2| MATH35600 | Theory of Inference | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=MATH35600) | Professor. Wood | [link](https://github.com/dajhutchinson/TheoryOfInference) | Completed
 
 ## Year 2
 | TB | Unit Code | Unit Name | Catalogue Link | Unit Directory | Repository Link | Note |
 |----|-----------|-----------|:--------------:|----------------|:---------------:|------|
-
-## Year 1
-| TB | Unit Code | Unit Name | Catalogue Link | Unit Directory | Repository Link | Note |
-|----|-----------|-----------|:--------------:|----------------|:---------------:|------|
->>>>>>> 885bbf71b9cd1db528509c443666fc2521e3c00e
+| TB1| COMS21103 | Data Structures and Algorithms | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMS21103) | Dr. Clifford | | Completed |
+| TB2| COMS21202 | Symbols, Patterns and Signals | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMS21202) | Dr. Aldamen | | Completed |
+| TB4| COMS22201 | Language Engineering | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMS22201) | Dr. Wu | | Completed |
+| TB1| MATH11400 | Statistics 1 | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=MATH11400) | Professor. Andrieu | | Completed |
+| TB2| MATH20002 | Combinatorics | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=MATH20002) | Dr. Harris | | Completed |
+| TB2| MATH20008 | Probability 2 | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=MATH20008) | Dr. Yu | | Completed |
+| TB1| MATH20901 | Multivariable Calculus | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=MATH20901) | Dr. Porter | | Completed |
