@@ -20,7 +20,7 @@ Centralised repository for my notes whilst studying for an MEng in Maths &amp; C
 | TB2| COMS31900 | Advanced Algorithms | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=COMS31900) | Dr. Clifford | [link](https://github.com/dajhutchinson/AdvancedAlgorithms) | Completed |
 |    | COMS30501 | Implementing and Evaluating Space Efficient Algorithms for Detecting Large Neighbourhoods in Graph Streams | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=COMS30501) | Dr. Konrad | [link](https://github.com/dajhutchinson/Detecting-Large-Neighbourhoods-in-Graph-Streams) | Bachelor's Thesis, Completed |
 | TB1| MATH20800 | Statistics 2 | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=MATH20900) | Professor. Anthony Lee | [link](https://github.com/dajhutchinson/Statistics2) | Completed |
-| TB2| MATH30100 | Logic | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=MATH30100) | Dr. Fujimoto | [link](https://github.com/dajhutchinson/Logic) | In Progress |
+| TB2| MATH30100 | Logic | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=MATH30100) | Dr. Fujimoto | [link](https://github.com/dajhutchinson/Logic) | Completed |
 | TB2| MATH35600 | Theory of Inference | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=MATH35600) | Professor. Wood | [link](https://github.com/dajhutchinson/TheoryOfInference) | Completed |
 
 ## Year 2
@@ -33,3 +33,17 @@ Centralised repository for my notes whilst studying for an MEng in Maths &amp; C
 | TB2| MATH20002 | Combinatorics | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=MATH20002) | Dr. Harris | | Completed |
 | TB2| MATH20008 | Probability 2 | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=MATH20008) | Dr. Yu | | Completed |
 | TB1| MATH20901 | Multivariable Calculus | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=MATH20901) | Dr. Porter | | Completed |
+
+## Year 1
+| TB | Unit Code | Unit Name | Catalogue Link | Unit Directory | Repository Link | Note |
+|----|-----------|-----------|:--------------:|----------------|:---------------:|------|
+| TB1| COMS10006 | Functional Programming | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=17%2F18&unitCode=COMS10006) | Dr. Wu | [link](https://github.com/dajhutchinson/FunctionalProgramming) | Completed |
+| TB2| COMS10007 |	Algorithms | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=17%2F18&unitCode=COMS10007) | Dr. Houghton | | Completed |
+| TB1| COMS10008 |	Imperative Programming | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=17%2F18&unitCode=COMS10008) | Dr. Holyer | [link](https://github.com/dajhutchinson/ImperativeProgramming) | Completed |
+| TB2| COMS10009 |	Object-Oriented Programming | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=17%2F18&unitCode=COMS10009) | Dr. Burghardt | [link](https://github.com/dajhutchinson/ObjectOrientedProgramming) | Completed |
+| TB1| MATH10003 |	Analysis 1A | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=17%2F18&unitCode=MATH10003) | Dr. Walling | | Completed |
+| TB1| MATH10004 |	Foundations & Proof | | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=17%2F18&unitCode=MATH10004) | Dr. Walling | | Completed |
+| TB2| MATH10005 |	Introduction to Group Theory | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=17%2F18&unitCode=MATH10005) | Professor. Rickard | | Completed |
+| TB4| MATH11005 |	Linear Algebra and Geometry | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=17%2F18&unitCode=MATH11005) | Dr. Misha Rudnev | | Completed |
+| TB4| MATH11007 |	Calculus 1 | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=17%2F18&unitCode=MATH11007) | Dr. Tourigny | | Completed |
+| TB1| MATH11300 |	Probability 1 | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=17%2F18&unitCode=MATH11300) | Professor. Johnson | | Completed |
