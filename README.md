@@ -21,4 +21,16 @@ Centralised repository for my notes whilst studying for an MEng in Maths &amp; C
 |    | COMS30501 | Implementing and Evaluating Space Efficient Algorithms for Detecting Large Neighbourhoods in Graph Streams | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=COMS30501) Dr. Konrad | [link](https://github.com/dajhutchinson/Detecting-Large-Neighbourhoods-in-Graph-Streams) | Bachelor's Thesis, Completed |
 | TB1| MATH20800 | Statistics 2 | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=MATH20900) | Professor. Anthony Lee | [link](https://github.com/dajhutchinson/Statistics2) | Completed |
 | TB2| MATH30100 | Logic | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=MATH30100) | Dr. Fujimoto | [link](https://github.com/dajhutchinson/Logic) | In Progress |
+<<<<<<< HEAD
 | TB2| MATH35600 | Theory of Inference | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=MATH35600) | Professor. Wood | [link](https://github.com/dajhutchinson/TheoryOfInference) | Completed |
+=======
+| TB2| MATH35600 | Theory of Inference | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=MATH35600) | Professor. Wood | [link](https://github.com/dajhutchinson/TheoryOfInference) | Completed
+
+## Year 2
+| TB | Unit Code | Unit Name | Catalogue Link | Unit Directory | Repository Link | Note |
+|----|-----------|-----------|:--------------:|----------------|:---------------:|------|
+
+## Year 1
+| TB | Unit Code | Unit Name | Catalogue Link | Unit Directory | Repository Link | Note |
+|----|-----------|-----------|:--------------:|----------------|:---------------:|------|
+>>>>>>> 885bbf71b9cd1db528509c443666fc2521e3c00e
