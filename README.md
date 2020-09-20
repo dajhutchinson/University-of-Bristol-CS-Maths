@@ -27,13 +27,13 @@ Centralised repository for my notes whilst studying for an MEng in Maths &amp; C
 ## Year 2
 | TB | Unit Code | Unit Name | Catalogue Link | Unit Directory | Repository Link | Note |
 |----|-----------|-----------|:--------------:|----------------|:---------------:|------|
-| TB1| COMS21103 | Data Structures and Algorithms | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMS21103) | Dr. Clifford | | Completed |
-| TB2| COMS21202 | Symbols, Patterns and Signals | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMS21202) | Dr. Aldamen | | Completed |
-| TB4| COMS22201 | Language Engineering | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMS22201) | Dr. Wu | | Completed |
-| TB1| MATH11400 | Statistics 1 | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=MATH11400) | Professor. Andrieu | | Completed |
-| TB2| MATH20002 | Combinatorics | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=MATH20002) | Dr. Harris | | Completed |
-| TB2| MATH20008 | Probability 2 | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=MATH20008) | Dr. Yu | | Completed |
-| TB1| MATH20901 | Multivariable Calculus | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=MATH20901) | Dr. Porter | | Completed |
+| TB1| COMS21103 | Data Structures and Algorithms | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMS21103) | Dr. Clifford | [Github](https://github.com/dajhutchinson/Data-Structures-and-Algorithms) | Completed |
+| TB2| COMS21202 | Symbols, Patterns and Signals | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMS21202) | Dr. Aldamen | [Github](https://github.com/dajhutchinson/ImageProcessingAndComputerVision) | Completed |
+| TB4| COMS22201 | Language Engineering | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMS22201) | Dr. Wu | [Github](https://github.com/dajhutchinson/Language-Engineering) | Completed |
+| TB1| MATH11400 | Statistics 1 | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=MATH11400) | Professor. Andrieu | [Github](https://github.com/dajhutchinson/Statistics-1) | Completed |
+| TB2| MATH20002 | Combinatorics | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=MATH20002) | Dr. Harris | [Github](https://github.com/dajhutchinson/Combinatorics) | Completed |
+| TB2| MATH20008 | Probability 2 | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=MATH20008) | Dr. Yu | [Github](https://github.com/dajhutchinson/Probability-2) | Completed |
+| TB1| MATH20901 | Multivariable Calculus | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=MATH20901) | Dr. Porter | [Github](https://github.com/dajhutchinson/Multivariable-Calculus) | Completed |
 
 ## Year 1
 | TB | Unit Code | Unit Name | Catalogue Link | Unit Directory | Repository Link | Note |
