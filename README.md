@@ -39,7 +39,7 @@ Centralised repository for my notes whilst studying for an MEng in Maths &amp; C
 | TB | Unit Code | Unit Name | Catalogue Link | Unit Directory | Repository Link | Note |
 |----|-----------|-----------|:--------------:|----------------|:---------------:|------|
 | TB1| COMS10006 | Functional Programming | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=17%2F18&unitCode=COMS10006) | Dr. Wu | [link](https://github.com/dajhutchinson/FunctionalProgramming) | Completed |
-| TB2| COMS10007 |	Algorithms | [Github](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=17%2F18&unitCode=COMS10007) | Dr. Houghton | | Completed |
+| TB2| COMS10007 |	Algorithms | [Link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=17%2F18&unitCode=COMS10007) | Dr. Houghton | | Completed |
 | TB1| COMS10008 |	Imperative Programming | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=17%2F18&unitCode=COMS10008) | Dr. Holyer | [Github](https://github.com/dajhutchinson/ImperativeProgramming) | Completed |
 | TB2| COMS10009 |	Object-Oriented Programming | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=17%2F18&unitCode=COMS10009) | Dr. Burghardt | [Github](https://github.com/dajhutchinson/ObjectOrientedProgramming) | Completed |
 | TB1| MATH10003 |	Analysis 1A | [link](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=17%2F18&unitCode=MATH10003) | Dr. Walling | | Completed |
