@@ -2,6 +2,10 @@
 Centralised repository for my notes whilst studying for an MEng in Maths &amp; Computer Science and the University of Bristol.\
 *Note* - Repositories will remain private until the module is completed.\
 
+## General Notes
+| Name | Repository Link |
+| Probability & Statistics | [Github](https://github.com/dajhutchinson/Probability-Statistics) |
+
 ## Year 4
 | TB | Unit Code | Unit Name | Catalogue Link | Unit Directory | Repository Link | Note |
 |----|-----------|-----------|:--------------:|----------------|:---------------:|------|
